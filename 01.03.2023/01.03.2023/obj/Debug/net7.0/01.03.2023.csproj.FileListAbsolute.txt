@@ -1,0 +1,15 @@
+/Users/nargizramazanova/Projects/01.03.2023/01.03.2023/bin/Debug/net7.0/01.03.2023
+/Users/nargizramazanova/Projects/01.03.2023/01.03.2023/bin/Debug/net7.0/01.03.2023.deps.json
+/Users/nargizramazanova/Projects/01.03.2023/01.03.2023/bin/Debug/net7.0/01.03.2023.runtimeconfig.json
+/Users/nargizramazanova/Projects/01.03.2023/01.03.2023/bin/Debug/net7.0/01.03.2023.dll
+/Users/nargizramazanova/Projects/01.03.2023/01.03.2023/bin/Debug/net7.0/01.03.2023.pdb
+/Users/nargizramazanova/Projects/01.03.2023/01.03.2023/obj/Debug/net7.0/01.03.2023.csproj.AssemblyReference.cache
+/Users/nargizramazanova/Projects/01.03.2023/01.03.2023/obj/Debug/net7.0/01.03.2023.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nargizramazanova/Projects/01.03.2023/01.03.2023/obj/Debug/net7.0/01.03.2023.AssemblyInfoInputs.cache
+/Users/nargizramazanova/Projects/01.03.2023/01.03.2023/obj/Debug/net7.0/01.03.2023.AssemblyInfo.cs
+/Users/nargizramazanova/Projects/01.03.2023/01.03.2023/obj/Debug/net7.0/01.03.2023.csproj.CoreCompileInputs.cache
+/Users/nargizramazanova/Projects/01.03.2023/01.03.2023/obj/Debug/net7.0/01.03.2023.dll
+/Users/nargizramazanova/Projects/01.03.2023/01.03.2023/obj/Debug/net7.0/refint/01.03.2023.dll
+/Users/nargizramazanova/Projects/01.03.2023/01.03.2023/obj/Debug/net7.0/01.03.2023.pdb
+/Users/nargizramazanova/Projects/01.03.2023/01.03.2023/obj/Debug/net7.0/01.03.2023.genruntimeconfig.cache
+/Users/nargizramazanova/Projects/01.03.2023/01.03.2023/obj/Debug/net7.0/ref/01.03.2023.dll
